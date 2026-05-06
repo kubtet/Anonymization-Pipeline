@@ -9,7 +9,7 @@ Pipeline ma na celu przekształcenie zbioru danych PII w formę zanonimizowaną,
 ### Struktura plików
 *   `data.json`: Plik wejściowy z 20 syntetycznymi rekordami użytkowników.
 *   `pipeline.ipynb`: Notebook zawierający implementację metod oraz obliczenia metryk.
-*   `README.md`: Dokumentacja projektu.
+*   `documentation.md`: Dokumentacja projektu.
 
 ### Instrukcja uruchomienia
 *   Wymagane środowisko: Python 3.x z biblioteką `pandas`.
