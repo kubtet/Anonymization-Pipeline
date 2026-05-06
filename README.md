@@ -1,6 +1,8 @@
 # Anonymization-Pipeline
 Project for college course Legal, Social and Ethical Aspects of Artificial Intelligence
 
+## Student ID: 288777
+
 This repository contains a sample dataset of 20 users in JSON format. It includes a Jupyter Notebook (pipeline.ipynb) documenting the experiments and methods used to anonymize the data, along with a markdown file providing detailed project documentation.
 
 ### Cel projektu
