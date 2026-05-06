@@ -1,6 +1,6 @@
 # Dokumentacja Projektu: Pipeline Anonimizacji Danych
 
-## 1. Proces i Dokumentacja (40 pkt)
+## 1. Proces i Dokumentacja
 
 ### Narzędzia i Prompty GenAI
 W trakcie pracy nad projektem wykorzystano model Gemini 3 Flash jako asystenta do generowania danych, weryfikacji logiki kodu oraz konsultacji aspektów merytorycznych.
@@ -22,7 +22,7 @@ W trakcie pracy nad projektem wykorzystano model Gemini 3 Flash jako asystenta d
 
 ---
 
-## 2. Merytoryka i Analiza Wyników (40 pkt)
+## 2. Merytoryka i Analiza Wyników
 
 ### Wnioski z uzyskanych wyników
 Na podstawie eksperymentów opisanych w `pipeline.ipynb` wyciągnięto następujące wnioski:
