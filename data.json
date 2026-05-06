@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "full_name": "James Anderson",
+    "national_id": "666-45-1234",
+    "date_of_birth": "1982-03-12",
+    "email": "j.anderson82@gmail.com",
+    "city": "New York",
+    "country": "USA",
+    "occupation": "Software Engineer",
+    "net_monthly_income": 8500
+  },
+  {
+    "id": 2,
+    "full_name": "Robert Miller",
+    "national_id": "666-45-9999",
+    "date_of_birth": "1985-11-20",
+    "email": "r.miller@gmail.com",
+    "city": "Chicago",
+    "country": "USA",
+    "occupation": "Systems Admin",
+    "net_monthly_income": 7200
+  },
+  {
+    "id": 3,
+    "full_name": "Linda Taylor",
+    "national_id": "666-45-8888",
+    "date_of_birth": "1980-05-14",
+    "email": "l.taylor@gmail.com",
+    "city": "Miami",
+    "country": "USA",
+    "occupation": "DevOps",
+    "net_monthly_income": 9100
+  },
+  {
+    "id": 4,
+    "full_name": "Michael Brown",
+    "national_id": "666-45-7777",
+    "date_of_birth": "1989-12-01",
+    "email": "m.brown@gmail.com",
+    "city": "Seattle",
+    "country": "USA",
+    "occupation": "QA",
+    "net_monthly_income": 6800
+  },
+  {
+    "id": 5,
+    "full_name": "Siddharth Gupta",
+    "national_id": "1234-5678-12",
+    "date_of_birth": "1992-09-18",
+    "email": "sid.gupta@infosys.in",
+    "city": "Bangalore",
+    "country": "India",
+    "occupation": "Data Scientist",
+    "net_monthly_income": 4500
+  },
+  {
+    "id": 6,
+    "full_name": "Anjali Sharma",
+    "national_id": "9999-8888-77",
+    "date_of_birth": "1995-03-30",
+    "email": "anjali.s@infosys.in",
+    "city": "Mumbai",
+    "country": "India",
+    "occupation": "ML Engineer",
+    "net_monthly_income": 4200
+  },
+  {
+    "id": 7,
+    "full_name": "Arjun Patel",
+    "national_id": "1111-2222-33",
+    "date_of_birth": "1990-01-15",
+    "email": "arjun.p@infosys.in",
+    "city": "Delhi",
+    "country": "India",
+    "occupation": "Coder",
+    "net_monthly_income": 4800
+  },
+  {
+    "id": 8,
+    "full_name": "Priya Das",
+    "national_id": "4444-5555-66",
+    "date_of_birth": "1999-11-20",
+    "email": "priya.d@infosys.in",
+    "city": "Pune",
+    "country": "India",
+    "occupation": "Analyst",
+    "net_monthly_income": 4000
+  },
+  {
+    "id": 9,
+    "full_name": "Rohan Singh",
+    "national_id": "7777-8888-99",
+    "date_of_birth": "1993-04-10",
+    "email": "rohan.s@infosys.in",
+    "city": "Hyderabad",
+    "country": "India",
+    "occupation": "Support",
+    "net_monthly_income": 3500
+  },
+  {
+    "id": 10,
+    "full_name": "Sita Rao",
+    "national_id": "0000-1111-22",
+    "date_of_birth": "1997-08-22",
+    "email": "sita.r@infosys.in",
+    "city": "Chennai",
+    "country": "India",
+    "occupation": "Admin",
+    "net_monthly_income": 3200
+  },
+  {
+    "id": 11,
+    "full_name": "Sophie Müller",
+    "national_id": "DE123456789",
+    "date_of_birth": "1990-07-22",
+    "email": "muller.sophie@web.de",
+    "city": "Berlin",
+    "country": "Germany",
+    "occupation": "Architect",
+    "net_monthly_income": 4200
+  },
+  {
+    "id": 12,
+    "full_name": "Hans Schmidt",
+    "national_id": "DE987654321",
+    "date_of_birth": "1994-02-15",
+    "email": "h.schmidt@web.de",
+    "city": "Munich",
+    "country": "Germany",
+    "occupation": "Engineer",
+    "net_monthly_income": 4800
+  },
+  {
+    "id": 13,
+    "full_name": "Klaus Weber",
+    "national_id": "DE555666777",
+    "date_of_birth": "1999-10-30",
+    "email": "k.weber@web.de",
+    "city": "Hamburg",
+    "country": "Germany",
+    "occupation": "Planner",
+    "net_monthly_income": 4100
+  },
+  {
+    "id": 14,
+    "full_name": "Elena Rossi",
+    "national_id": "RSS-LNE-88M55",
+    "date_of_birth": "1988-05-15",
+    "email": "elena.rossi@libero.it",
+    "city": "Milan",
+    "country": "Italy",
+    "occupation": "Doctor",
+    "net_monthly_income": 5800
+  },
+  {
+    "id": 15,
+    "full_name": "Marco Bianchi",
+    "national_id": "BNC-MRC-82T12",
+    "date_of_birth": "1982-09-12",
+    "email": "m.bianchi@libero.it",
+    "city": "Rome",
+    "country": "Italy",
+    "occupation": "Surgeon",
+    "net_monthly_income": 6500
+  },
+  {
+    "id": 16,
+    "full_name": "Paolo Riva",
+    "national_id": "RVA-PLA-80A01",
+    "date_of_birth": "1980-01-05",
+    "email": "p.riva@libero.it",
+    "city": "Naples",
+    "country": "Italy",
+    "occupation": "Dentist",
+    "net_monthly_income": 5900
+  },
+  {
+    "id": 17,
+    "full_name": "Hiroshi Tanaka",
+    "national_id": "1234-5678-90",
+    "date_of_birth": "1975-11-30",
+    "email": "h.tanaka@yahoo.co.jp",
+    "city": "Tokyo",
+    "country": "Japan",
+    "occupation": "Analyst",
+    "net_monthly_income": 5200
+  },
+  {
+    "id": 18,
+    "full_name": "Kenji Sato",
+    "national_id": "9876-5432-10",
+    "date_of_birth": "1979-04-05",
+    "email": "sato.k@yahoo.co.jp",
+    "city": "Osaka",
+    "country": "Japan",
+    "occupation": "Broker",
+    "net_monthly_income": 5900
+  },
+  {
+    "id": 19,
+    "full_name": "Björn Ulvaeus",
+    "national_id": "19660505-12",
+    "date_of_birth": "1966-05-05",
+    "email": "bjorn@abba.se",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "occupation": "Producer",
+    "net_monthly_income": 12000
+  },
+  {
+    "id": 20,
+    "full_name": "Lars Svensson",
+    "national_id": "19680312-99",
+    "date_of_birth": "1968-03-12",
+    "email": "lars@svensson.se",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "occupation": "Musician",
+    "net_monthly_income": 8000
+  }
+]
